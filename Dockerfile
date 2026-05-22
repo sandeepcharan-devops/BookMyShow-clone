@@ -10,6 +10,5 @@ COPY . .
 
 EXPOSE 3000
 
-USER tempuser
 
 CMD ["npm","start"]
